@@ -9,7 +9,7 @@
 import Foundation
 import SwiftyJSON
 
-struct Match{
+struct Match{ 
     
     let teamA:String
     let teamB:String
